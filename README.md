@@ -5,8 +5,6 @@
 <h3 align="left">Hello there! I'm Dushyant, a final year computer science student.</h3>
 
   
-  ![VisitorCount](https://profile-counter.glitch.me/{dushyant-18}/count.svg)  
-  
 </a>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
